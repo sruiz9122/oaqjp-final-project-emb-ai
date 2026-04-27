@@ -1,0 +1,6 @@
+test_emotion_detector (__main__.TestEmotionDetection.test_emotion_detector) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.645s
+
+OK
